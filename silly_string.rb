@@ -39,6 +39,8 @@ puts "There are now #{new_letter_count} in #{bigger_word}"
 
 proper_sentence = "i really like programming." # Put a . after the string to capitalize it properly.
 
+proper_sentence = proper_sentence.capitalize
+
 puts proper_sentence.capitalize
 
 # Challenge 7: String Switcheroo
